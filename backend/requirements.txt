@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+alembic
+pydantic
+pydantic-settings
+pyotp
+qrcode
+pillow
+cryptography
+redis
+python-multipart
+email-validator
